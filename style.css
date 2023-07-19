@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: brown;
+}
+
+.di{
+    width: 500px;
+    height: 500px;
+    background-color: crimson;
+    text-align: center;
+    margin: 50px auto;
+}
+
+label{
+    background-color: aqua;
+}
